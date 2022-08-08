@@ -1,6 +1,5 @@
 # Little Battle
 ## Introduction
----
 A turn-based strategy (TBS) game that has the following [features](#rule).
 
 ```little_battle.py``` is a main file where contain whole code to implement the game features.
@@ -9,7 +8,6 @@ A turn-based strategy (TBS) game that has the following [features](#rule).
 
 
 ## Rule
----
 - The game is initialized with a map with resources and two players (Player 1 and Player 2).
 - Each player has a home base. Player 1 and Player 2’s home bases should always be in positions (1,1) and (map_width-2, map_height-2), respectively. (coordinates start from (0, 0))
 - The winning condition is to capture the other player’s home base by an army.
