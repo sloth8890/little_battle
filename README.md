@@ -48,6 +48,7 @@ but move only once.
 
 ## Example Play
 [Winning Example](examples/Winning.txt)
+
 [Terminating Game Example](examples/Terminating.txt)
 ## Reference
 Assignment2 for 2021 INFO11110
