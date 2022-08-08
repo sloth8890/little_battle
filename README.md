@@ -23,6 +23,8 @@ costs 1F, 1G, Scout (T) costs 1W, 1F, 1G.
 - Spearman (S) counters Knight (K); Knight (K) counters Archer (A); Archer (A) counters Spearman.
 (S); All other types of armies counter Scout (T); The table below shows the outcome of a fight:
 
+***When two armies encounter in Move Armies Stage, one might suppressed by the other armies depending on their types. The suppressed one will be disappear from the map. Refer to the table below.***
+
 ||Spearman (S) | Knight (K) | Archer (A) | Scout (T) |
 |---|---|---|---|---|
 |Spearman (S)|Both disappear |K disappear | S disappear |T disappear |
