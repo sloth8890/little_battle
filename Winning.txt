@@ -1,0 +1,175 @@
+Configuration file config.txt was loaded.
+Game Started: Little Battle! (enter QUIT to quit the game)
+
+Please check the battlefield, commander.
+  X00 01 02 03 04X
+ Y+--------------+
+00|~~|  |  |  |  |
+01|  |H1|  |FF|GG|
+02|WW|  |GG|  |~~|
+03|  |~~|  |H2|  |
+04|FF|  |WW|  |  |
+ Y+--------------+
+(enter DIS to display the map)
+
+Recruit Prices:
+  Spearman (S) - 1W, 1F
+  Archer (A) - 1W, 1G
+  Knight (K) - 1F, 1G
+  Scout (T) - 1W, 1F, 1G
+(enter PRIS to display the price list)
+
+-Year 617-
+
++++Player 1's Stage: Recruit Armies+++
+
+[Your Asset: Wood - 2 Food - 2 Gold - 2]
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+T
+
+You want to recruit a Scout. Enter two integers as format ‘x y’ to place your army.
+2 1
+
+You has recruited a Scout.
+
+[Your Asset: Wood - 1 Food - 1 Gold - 1]
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+T
+
+You want to recruit a Scout. Enter two integers as format ‘x y’ to place your army.
+1 2
+
+You has recruited a Scout.
+
+[Your Asset: Wood - 0 Food - 0 Gold - 0]
+No resources to recruit any armies.
+
+===Player 1's Stage: Move Armies===
+
+Armies to Move:
+  Scout: (2, 1), (1, 2)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+DIS
+Please check the battlefield, commander.
+  X00 01 02 03 04X
+ Y+--------------+
+00|~~|  |  |  |  |
+01|  |H1|T1|FF|GG|
+02|WW|T1|GG|  |~~|
+03|  |~~|  |H2|  |
+04|FF|  |WW|  |  |
+ Y+--------------+
+
+Armies to Move:
+  Scout: (2, 1), (1, 2)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+2 1 2 3
+
+You have moved Scout from (2, 1) to (2, 3).
+Good. We collected 2 Gold.
+
+Armies to Move:
+  Scout: (1, 2)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+1 2 3 2
+
+You have moved Scout from (1, 2) to (3, 2).
+
+No Army to Move: next turn.
+
+-Year 617-
+
++++Player 2's Stage: Recruit Armies+++
+
+[Your Asset: Wood - 2 Food - 2 Gold - 2]
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+DIS
+Please check the battlefield, commander.
+  X00 01 02 03 04X
+ Y+--------------+
+00|~~|  |  |  |  |
+01|  |H1|  |FF|GG|
+02|WW|  |  |T1|~~|
+03|  |~~|T1|H2|  |
+04|FF|  |WW|  |  |
+ Y+--------------+
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+NO
+
+===Player 2's Stage: Move Armies===
+
+No Army to Move: next turn.
+
+-Year 618-
+
++++Player 1's Stage: Recruit Armies+++
+
+[Your Asset: Wood - 0 Food - 0 Gold - 2]
+No resources to recruit any armies.
+
+===Player 1's Stage: Move Armies===
+
+Armies to Move:
+  Scout: (2, 3), (3, 2)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+DIS
+Please check the battlefield, commander.
+  X00 01 02 03 04X
+ Y+--------------+
+00|~~|  |  |  |  |
+01|  |H1|  |FF|GG|
+02|WW|  |  |T1|~~|
+03|  |~~|T1|H2|  |
+04|FF|  |WW|  |  |
+ Y+--------------+
+
+Armies to Move:
+  Scout: (2, 3), (3, 2)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+adas
+Invalid move. Try again.
+
+Armies to Move:
+  Scout: (2, 3), (3, 2)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+2 1 100 100
+Invalid move. Try again.
+
+Armies to Move:
+  Scout: (2, 3), (3, 2)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+2 3
+Invalid move. Try again.
+
+Armies to Move:
+  Scout: (2, 3), (3, 2)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+3 2 3 3
+
+You have moved Scout from (3, 2) to (3, 3).
+The army Scout captured the enemy’s capital.
+
+What’s your name, commander?
+Vincent
+
+***Congratulation! Emperor Vincent unified the country in 618.***
+
+Use left and right arrow keys to adjust the split region size
+12345
+Frame: 5x5
+Water: 0 0 4 2 1 3
+Wood: 0 2 2 4
+Food: 0 4 3 1
+Gold: 4 1 2 2
