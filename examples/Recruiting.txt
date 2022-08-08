@@ -1,0 +1,119 @@
+Configuration file config.txt was loaded.
+Game Started: Little Battle! (enter QUIT to quit the game)
+
+Please check the battlefield, commander.
+  X00 01 02 03 04X
+ Y+--------------+
+00|~~|  |  |  |  |
+01|  |H1|  |FF|GG|
+02|WW|  |GG|  |~~|
+03|  |~~|  |H2|  |
+04|FF|  |WW|  |  |
+ Y+--------------+
+(enter DIS to display the map)
+
+Recruit Prices:
+  Spearman (S) - 1W, 1F
+  Archer (A) - 1W, 1G
+  Knight (K) - 1F, 1G
+  Scout (T) - 1W, 1F, 1G
+(enter PRIS to display the price list)
+
+-Year 617-
+
++++Player 1's Stage: Recruit Armies+++
+
+[Your Asset: Wood - 2 Food - 2 Gold - 2]
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+Archer
+Sorry, invalid input. Try again.
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+a
+Sorry, invalid input. Try again.
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+A A
+Sorry, invalid input. Try again.
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+A
+
+You want to recruit a Archer. Enter two integers as format ‘x y’ to place your army.
+2 1
+
+You has recruited a Archer.
+
+[Your Asset: Wood - 1 Food - 2 Gold - 1]
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+S
+
+You want to recruit a Spearman. Enter two integers as format ‘x y’ to place your army.
+DIS
+Please check the battlefield, commander.
+  X00 01 02 03 04X
+ Y+--------------+
+00|~~|  |  |  |  |
+01|  |H1|A1|FF|GG|
+02|WW|  |GG|  |~~|
+03|  |~~|  |H2|  |
+04|FF|  |WW|  |  |
+ Y+--------------+
+
+You want to recruit a Spearman. Enter two integers as format ‘x y’ to place your army.
+2 1 1
+Sorry, invalid input. Try again.
+
+You want to recruit a Spearman. Enter two integers as format ‘x y’ to place your army.
+2 2
+You must place your newly recruited unit in an unoccupied position next to your home base. Try again.
+
+You want to recruit a Spearman. Enter two integers as format ‘x y’ to place your army.
+1 1
+You must place your newly recruited unit in an unoccupied position next to your home base. Try again.
+
+You want to recruit a Spearman. Enter two integers as format ‘x y’ to place your army.
+2 1
+You must place your newly recruited unit in an unoccupied position next to your home base. Try again.
+
+You want to recruit a Spearman. Enter two integers as format ‘x y’ to place your army.
+1 2
+
+You has recruited a Spearman.
+
+[Your Asset: Wood - 0 Food - 1 Gold - 1]
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+A
+Insufficient resources. Try again.
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+PRIS
+Recruit Prices:
+  Spearman (S) - 1W, 1F
+  Archer (A) - 1W, 1G
+  Knight (K) - 1F, 1G
+  Scout (T) - 1W, 1F, 1G
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+K
+
+You want to recruit a Knight. Enter two integers as format ‘x y’ to place your army.
+1 0
+
+You has recruited a Knight.
+
+[Your Asset: Wood - 0 Food - 0 Gold - 0]
+No resources to recruit any armies.
+
+===Player 1's Stage: Move Armies===
+
+Armies to Move:
+  Spearman: (1, 2)
+  Archer: (2, 1)
+  Knight: (1, 0)
+
+Enter four integers as a format ‘x0 y0 x1 y1’ to represent move unit from (x0, y0) to (x1, y1) or ‘NO’ to end this turn.
+QUIT

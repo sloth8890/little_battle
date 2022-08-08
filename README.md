@@ -46,9 +46,12 @@ but move only once.
 2. User can enter ```QUIT```, ```DIS```, or ```PRIS``` any time to quit the game, display the map, or print the prices except aftering winning.
 3. User can enter ```S```, ```A```, ```K```, or ```T``` to specify which troop wants to be moved followed by typing ```x``` and ```y``` coordinate.
 
-## Example Play
+## Example Game Play
 [Winning Example](examples/Winning.txt)
 
 [Terminating Game Example](examples/Terminating.txt)
+
+[Recruiting Army Example](examples/Recruiting.txt)
+
 ## Reference
 Assignment2 for 2021 INFO11110
