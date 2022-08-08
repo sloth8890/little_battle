@@ -47,6 +47,7 @@ but move only once.
 3. User can enter ```S```, ```A```, ```K```, or ```T``` to specify which troop wants to be moved followed by typing ```x``` and ```y``` coordinate.
 
 ## Example Play
-[Winning Example](Winning.txt)
+[Winning Example](examples/Winning.txt)
+[Terminating Game Example](examples/Terminating.txt)
 ## Reference
 Assignment2 for 2021 INFO11110
