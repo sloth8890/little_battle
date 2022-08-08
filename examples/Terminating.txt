@@ -1,0 +1,29 @@
+Configuration file config.txt was loaded.
+Game Started: Little Battle! (enter QUIT to quit the game)
+
+Please check the battlefield, commander.
+  X00 01 02 03 04X
+ Y+--------------+
+00|~~|  |  |  |  |
+01|  |H1|  |FF|GG|
+02|WW|  |GG|  |~~|
+03|  |~~|  |H2|  |
+04|FF|  |WW|  |  |
+ Y+--------------+
+(enter DIS to display the map)
+
+Recruit Prices:
+  Spearman (S) - 1W, 1F
+  Archer (A) - 1W, 1G
+  Knight (K) - 1F, 1G
+  Scout (T) - 1W, 1F, 1G
+(enter PRIS to display the price list)
+
+-Year 617-
+
++++Player 1's Stage: Recruit Armies+++
+
+[Your Asset: Wood - 2 Food - 2 Gold - 2]
+
+Which type of army to recruit, (enter) ‘S’, ‘A’, ‘K’, or ‘T’? Enter ‘NO’ to end this stage.
+QUIT
